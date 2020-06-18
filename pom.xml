@@ -23,6 +23,8 @@
 		</pluginRepository>
 	</pluginRepositories>
 	<properties>
+		<maven.compiler.source>1.6</maven.compiler.source>
+    		<maven.compiler.target>1.6</maven.compiler.target>
 		<versionSpecificSubPackage>v0_7_0</versionSpecificSubPackage>
 		<maven.compiler.optimize>true</maven.compiler.optimize>
 	</properties>
